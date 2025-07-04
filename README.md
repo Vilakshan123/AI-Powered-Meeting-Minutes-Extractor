@@ -130,7 +130,7 @@ curl -X POST http://localhost:3000/process-meeting \
 
 ---
 
-## 🧾 Sample Input
+## 🧾 Sample Input 1
 
 Sample meeting notes (`text` or `.txt` file content):
 
@@ -171,8 +171,8 @@ Team Sync – May 26
 ## 🧾 Sample Input 2
 
 Sample meeting notes (`text` or `.txt` file content):
-Product Sync – Aug 10
 ```
+Product Sync – Aug 10
 - Beta testing starts Aug 15.
 - Rohan to prepare user feedback form.
 - Reached consensus on dark mode UI.
