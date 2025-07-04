@@ -1,0 +1,6 @@
+Product Sync – Aug 10
+
+- Beta testing starts Aug 15.
+- Rohan to prepare user feedback form.
+- Reached consensus on dark mode UI.
+- Need faster load time before final release.
